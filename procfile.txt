@@ -1,0 +1,1 @@
+web: gunicorn Devmascota.wsgi --log-file -
